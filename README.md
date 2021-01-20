@@ -7,7 +7,7 @@ Hi there! I'm Brina from Slovenia, I'm a student at the University of Ljubljana 
 
 ### Hobbies
 
-<img src="https://github.com/BrinaJEHART/brinaJEHART/blob/main/Adobe_Premiere_Pro_CS6_Icon.png" alt="picture" height="50" width="50"> <img src="https://github.com/BrinaJEHART/brinaJEHART/blob/main/images.png" alt="picture" height="50" width="50">
+<img src="https://github.com/BrinaJEHART/brinaJEHART/blob/main/Adobe_Premiere_Pro_CS6_Icon.png" alt="picture" height="50" width="50"> <br> <img src="https://github.com/BrinaJEHART/brinaJEHART/blob/main/images.png" alt="picture" height="50" width="50">
 
 
 
