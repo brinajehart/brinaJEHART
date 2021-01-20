@@ -5,7 +5,7 @@ Hi there! I'm Brina from Slovenia, I'm a student at the University of Ljubljana 
 ### Skills and experience
 * HTML
 * CSS
-* ![Python](https://github.com/BrinaJEHART/brinaJEHART/blob/main/python.png = 150x150)
+* ![Python](<img src="https://github.com/BrinaJEHART/brinaJEHART/blob/main/python.png" width="100" height="100">)
 * C++
 * C#
 
