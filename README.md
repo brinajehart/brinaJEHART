@@ -9,7 +9,7 @@ Hi there! I'm Brina from Slovenia, I'm a student at the University of Ljubljana 
 * C++
 * C#
 
-<img src="https://github.com/BrinaJEHART/brinaJEHART/blob/main/python.png" height="100" width="100">
+<img src="https://github.com/BrinaJEHART/brinaJEHART/blob/main/python.png" height="80" width="80">
 
 ###
 
