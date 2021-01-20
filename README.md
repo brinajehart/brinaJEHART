@@ -3,7 +3,7 @@
 Hi there! I'm Brina from Slovenia, I'm a student at the University of Ljubljana [FRI](https://www.fri.uni-lj.si/en). I enjoy web developing 💻 and love creating short films 🎥.
 
 ### Skills and experience
-<img src="https://raw.githubusercontent.com/BrinaJEHART/brinaJEHART/main/22-512.webp" alt="picture" height="60" width="60"> <img src="https://github.com/BrinaJEHART/brinaJEHART/blob/main/python.png" alt="picture" height="60" width="60">
+<img src="https://raw.githubusercontent.com/BrinaJEHART/brinaJEHART/main/22-512.webp" alt="picture" height="40" width="40"> <img src="https://github.com/BrinaJEHART/brinaJEHART/blob/main/python.png" alt="picture" height="40" width="40">
 * C++
 * C#
 
