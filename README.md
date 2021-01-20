@@ -5,12 +5,11 @@ Hi there! I'm Brina from Slovenia, I'm a student at the University of Ljubljana 
 ### Skills and experience
 * HTML
 * CSS
-* Python
+* ![Design and Development](https://github.com/BrinaJEHART/brinaJEHART/blob/main/python.png)
 * C++
 * C#
 
-
-## Hobbies
+###
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brinaJEHART)](https://github.com/anuraghazra/github-readme-stats)
 
