@@ -1,7 +1,9 @@
-### Hi there 👋
+# Brina Jehart
 
-I'm Brina from Slovenia, I'm a student in the University of Ljubljana. I enjoy web developing and love creating short films.
+Hi there! I'm Brina from Slovenia, I'm a student at the University of Ljubljana [FRI](https://www.fri.uni-lj.si/en). I enjoy web developing and love creating short films.
 
+## Skills and experience
+* :blush: 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brinaJEHART)](https://github.com/anuraghazra/github-readme-stats)
 <!--
