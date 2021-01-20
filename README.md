@@ -5,9 +5,11 @@ Hi there! I'm Brina from Slovenia, I'm a student at the University of Ljubljana 
 ### Skills and experience
 * HTML
 * CSS
-* ![Image](<img src="https://github.com/BrinaJEHART/brinaJEHART/blob/main/python.png" width="100" height="100">)
+* ![Image](https://github.com/BrinaJEHART/brinaJEHART/blob/main/python.png | width=)
 * C++
 * C#
+
+![test]<img src="https://github.com/favicon.ico" height="24" width="48">
 
 ###
 
