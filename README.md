@@ -1,6 +1,6 @@
 ## Brina Jehart
 
-Hi there! I'm Brina from Slovenia, I'm a student at the University of Ljubljana [FRI](https://www.fri.uni-lj.si/en). I enjoy web developing 💻 and love creating short films 🎥.
+Hi there! I'm Brina from Slovenia, I'm a student at the University of Ljubljana [FRI](https://www.fri.uni-lj.si/en). I enjoy web developing and love creating short films 🎥. I discovered my pashion for web design and developement in 2018, but my pashion for film making goes way back.
 
 ### Skills and experience
 * Python
