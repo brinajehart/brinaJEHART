@@ -9,6 +9,8 @@ Hi there! I'm Brina from Slovenia, I'm a student at the University of Ljubljana 
 * C++
 * C#
 
+##
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brinaJEHART)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
