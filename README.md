@@ -1,6 +1,6 @@
 ## Brina Jehart
 
-Hi there! I'm Brina from Slovenia, I'm a student at the University of Ljubljana [FRI](https://www.fri.uni-lj.si/en). I enjoy web developing and love creating short films 🎥. I was firstly introduced to HTML in 2017 and it's only when I met CSS and JavaScript that i fell in love with web design and development. From there I moved on to C# and recently I've been working on my python skills.
+Hi there! I'm Brina and I'm a student at the University of Ljubljana [FRI](https://www.fri.uni-lj.si/en). I enjoy web developing and love creating short films 🎥. I was firstly introduced to HTML in 2017 and it's only when I met CSS and JavaScript that i fell in love with web design and development. From there I moved on to C# and recently I've been working on my python skills.
 
 ### Skills and experience
 * Python
