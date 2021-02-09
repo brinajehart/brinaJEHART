@@ -18,13 +18,6 @@ Hi there! I'm Brina and I'm a student at the University of Ljubljana [FRI](https
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=brinaJEHART)](https://github.com/anuraghazra/github-readme-stats)
 
-[b][u]My Steam Profile[/u][/b] [i](from [URL=https://steamdb.info/calculator/76561198271576778/?cc=eu]SteamDB[/URL])[/i]
-
-[list] [*][b]Worth:[/b] 834€ (218€ with sales)
-[*][b]Games owned:[/b] 69
-[*][b]Games played:[/b] 29 [i](42%)[/i]
-[*][b]Hours on record:[/b] 1,624.1h [/list]
-
 <!--
 **BrinaJEHART/brinaJEHART** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
